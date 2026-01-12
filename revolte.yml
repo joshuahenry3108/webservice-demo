@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: new-project-1
-  appName: new-application-1
+  project: Sample Project1
+  appName: app-new-check
   env:
     staging:
       branch: main
