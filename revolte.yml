@@ -1,6 +1,6 @@
 revolte:
   version: '1.0'
-  project: Sample Project1
+  project: Sample-Project1
   appName: app-new-check
   env:
     staging:
