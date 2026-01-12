@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Airtel-Project
-  appName: airtel-app
+  project: sam-cs
+  appName: sam-cs-app
   env:
     staging:
       branch: main
