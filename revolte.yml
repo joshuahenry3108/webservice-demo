@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Epam-Systems
-  appName: epam-apps
+  project: metayb
+  appName: meta yb api
   env:
     staging:
       branch: main
@@ -18,7 +18,7 @@ revolte:
               BASE_URL: /api/v1
           specifications:
             cpu: 2
-            memory: 1
+            memory: 2
             storage: 30
     qa:
       branch: main
