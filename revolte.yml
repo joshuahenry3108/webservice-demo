@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: sam-cs
-  appName: sam-cs-app
+  project: Insta-Project
+  appName: insta-app
   env:
     staging:
       branch: main
