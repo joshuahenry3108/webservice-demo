@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: metayb
-  appName: meta yb api
+  project: Airtel-Project
+  appName: airtel-app
   env:
     staging:
       branch: main
