@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Cipcot
-  appName: be-app
+  project: new-project-1
+  appName: new-application-1
   env:
     staging:
       branch: main
@@ -35,7 +35,7 @@ revolte:
               BASE_URL: /api/v1
           specifications:
             cpu: 2
-            memory: 1
+            memory: 2
             storage: 30
     production:
       branch: main
