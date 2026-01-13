@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Vedant Project
-  appName: vedant-app
+  project: anto-new
+  appName: auto-scaling
   env:
     staging:
       branch: main
@@ -52,12 +52,12 @@ revolte:
               BASE_URL: /api/v1
           specifications:
             cpu: 2
-            memory: 1
+            memory: 2
             storage: 30
             autoScaling:
               replica:
                 min: 1
-                max: 1
+                max: 2
     preview:
       services:
         rid_1:
