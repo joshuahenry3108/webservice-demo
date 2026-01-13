@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: AB Project
-  appName: ab-test-app
+  project: Zebronics
+  appName: zeb-app
   env:
     staging:
       branch: main
