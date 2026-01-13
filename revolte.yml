@@ -67,7 +67,7 @@ revolte:
           properties:
             health: /health
             port: 8080
-            loadBalancerMode: shared
+            loadBalancerMode: dedicated
             variables:
               BASE_URL: /api/v1
               VITE_API_URL: test
