@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Jio-App
-  appName: jio-app-check
+  project: AB Project
+  appName: ab-test-app
   env:
     staging:
       branch: main
