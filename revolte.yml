@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: karpenter
-  appName: fix-api
+  project: karpenter-final
+  appName: api-service
   env:
     staging:
       branch: main
